@@ -32,6 +32,8 @@ Practical 11 Problem 1
    2.   1.   4.
    2.   1.   4.
    4.   1.   2.
+   
+  
 
 
 --> X=[1;-6;1]
@@ -320,4 +322,6 @@ Practical 11 Problem 4
    2.  
    2.  
 
+
+heyy
 
